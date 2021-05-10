@@ -78,7 +78,8 @@ body {
     float: left;
     width: 300px;
     margin-right: 50px;
-    padding-top: 20px
+    padding-top: 20px;
+    margin-bottom: 20px;
 }
 .seccionObra a {
     line-height: 80px;
